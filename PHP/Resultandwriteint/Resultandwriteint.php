@@ -1,4 +1,4 @@
-//Compiler result two numbers and print one message "Result the two numbers"
+//Compiler result two numbers and print one message "Result the two numbers".
 
 <?php
 //Variables 
